@@ -1,0 +1,5 @@
+body {
+    background-image: url('bg.gif');
+    background-size: 800px 600px; /* Adjust as per your image dimensions */
+    background-repeat: no-repeat;
+}
